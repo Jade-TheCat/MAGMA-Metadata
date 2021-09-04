@@ -1,0 +1,4 @@
+name = "CurseForge"
+addons = [
+    "314736"
+]
