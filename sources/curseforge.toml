@@ -1,4 +1,6 @@
 name = "CurseForge"
-addons = [
+
+[addons]
+"Minecraft" = [
     "314736"
 ]
