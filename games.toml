@@ -1,0 +1,3 @@
+[minecraft]
+types = ["mod", "resourcepack", "plugin", "datapack"]
+sources = ["modrinth"]
