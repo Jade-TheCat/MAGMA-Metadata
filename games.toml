@@ -1,3 +1,17 @@
 [minecraft]
 types = ["mod", "resourcepack", "plugin", "datapack"]
 sources = ["modrinth"]
+slug = "minecraft"
+name = "Minecraft"
+looseDeploy = true
+defaultDeployFolder = "mods"
+
+[minecraft.deployFolders]
+resourcepacks = "resourcepacks"
+
+[skyrim]
+types = ["mod"]
+slug = "skyrim"
+name = "TES V: Skyrim"
+defaultDeployFolder = "Data"
+
